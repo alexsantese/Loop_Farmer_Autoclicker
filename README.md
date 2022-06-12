@@ -1,4 +1,4 @@
-# Loop_Farmer_Autoclicker
+# Loop Farmer Clicker Bot
 
 A simple autoclicker that uses Pillow and numpy to make an autoclicker for the game Loop Farmer on crazygames.io. 
 The bot can autoupgrade itself and will use the level-based upgrades as well as reset after a certain period of time to get higher bonuses. 
